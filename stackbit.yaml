@@ -334,6 +334,7 @@ models:
         label: Title
         description: The title of the post
         required: true
+        required: true
       - type: string
         name: subtitle
         label: Subtitle
@@ -346,6 +347,7 @@ models:
         name: thumb_img_path
         label: Image (Blog Feed)
         description: The image shown in the blog feed
+        required: true
       - type: string
         name: thumb_img_alt
         label: Image Alt Text (Blog Feed)
