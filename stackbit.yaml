@@ -334,7 +334,6 @@ models:
         label: Title
         description: The title of the post
         required: true
-        required: true
       - type: string
         name: subtitle
         label: Subtitle
